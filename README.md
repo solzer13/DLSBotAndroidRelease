@@ -3,7 +3,7 @@
   Бот для автоматизации действий в игре Doomsday Last Survivors.
 <p>
 
-| <img src="/images/screen1.jpg" alt="Screenshot-1" /> | <img src="/images/screen2.jpg" alt="Screenshot-2"/> | <img src="/images/screen3.jpg" alt="Screenshot-3"/> |
+| <img src="https://github.com/solzer13/DLSBotAndroidRelease/blob/main/images/screen1.jpg" alt="Screenshot-1" /> | <img src="https://github.com/solzer13/DLSBotAndroidRelease/blob/main/images/screen2.jpg" alt="Screenshot-2"/> | <img src="https://github.com/solzer13/DLSBotAndroidRelease/blob/main/images/screen3.jpg" alt="Screenshot-3"/> |
 | --- | --- | --- |
 
 ## Основные возможности
